@@ -3,8 +3,7 @@
        <div class="container">
            <div class="row gx-5">
                <div class="col-lg-4 col-sm-6">
-                   <img src="images/ac-logo.png" style="width: 240px;
-    filter: invert(10) saturate(0) brightness(3.5);" alt="">
+                   <img src="images/ac-logo.png" style="width: 240px;" alt="">
                    <div class="spacer-20"></div>
                    <!--  <p>At Elastizell Systems, we specialize in fire alarms, video surveillance, access control, PA
                        systems, nurse call, mass notification, and intercom system integration. We build lasting
