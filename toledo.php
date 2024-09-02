@@ -3,7 +3,7 @@
 <title>Fire Alarm Systems, Access Control, Nurse Call, &amp; School Intercom in Toledo, OH</title>
 
 <meta name="description"
-    content=" Andrew Casey Integration provides top fire alarm systems, access control, nurse call systems, and intercom solutions in Toledo, OH. Tailored services for various facilities.">
+    content=" Elastizell Systems provides top fire alarm systems, access control, nurse call systems, and intercom solutions in Toledo, OH. Tailored services for various facilities.">
 
 </head>
 
@@ -57,7 +57,7 @@
 
                                     <h2>Advanced Fire Alarm Solutions in Toledo, Ohio</h2>
 
-                                    <p>At Andrew Casey Integration, we specialize in advanced fire alarm systems for
+                                    <p>At Elastizell Systems, we specialize in advanced fire alarm systems for
                                         Toledo and surrounding areas. Our NICET-certified fire engineers design and
                                         implement tailored solutions ideal for various facilities, including educational
                                         institutions such as Toledo City Schools and major manufacturers like Honda of
@@ -72,7 +72,7 @@
 
                                     <h2>Access Control Solutions in Toledo</h2>
 
-                                    <p>Andrew Casey Integration specializes in advanced access control systems designed
+                                    <p>Elastizell Systems specializes in advanced access control systems designed
                                         to secure facilities across Toledo, including major landmarks like Honda of
                                         America Manufacturing and the Shelby County Fairgrounds. Our solutions are ideal
                                         for ensuring the safety of employees, students, and visitors in various
@@ -84,7 +84,7 @@
 
                                     <h2>Surveillance Camera Solutions in Toledo</h2>
 
-                                    <p>Andrew Casey Integration provides advanced surveillance camera systems customized
+                                    <p>Elastizell Systems provides advanced surveillance camera systems customized
                                         for various types of facilities across Toledo, Ohio. Our expert team designs and
                                         installs high-definition surveillance cameras that are well-suited for a range
                                         of environments, including local landmarks like the Honda of America
@@ -98,7 +98,7 @@
 
                                     <h2>Nurse Call Systems in Toledo</h2>
 
-                                    <p>Andrew Casey Integration specializes in advanced nurse call systems designed to
+                                    <p>Elastizell Systems specializes in advanced nurse call systems designed to
                                         meet the needs of healthcare facilities in Toledo, Ohio. Our state-of-the-art
                                         nurse call solutions ensure efficient communication between staff and patients,
                                         enhancing response times and improving patient care. Whether you manage a
@@ -114,7 +114,7 @@
 
                                     <h2>Integrated Intercom Systems for Schools and Universities in Toledo</h2>
 
-                                    <p>Andrew Casey Integration provides advanced communication systems, including
+                                    <p>Elastizell Systems provides advanced communication systems, including
                                         state-of-the-art intercom solutions, designed specifically for schools and
                                         universities in Toledo, Ohio. We design, install, and maintain integrated
                                         intercom systems that seamlessly connect with PA systems, two-way radios, access
@@ -130,7 +130,7 @@
 
                                     <h2>Wander Management Systems in Toledo</h2>
 
-                                    <p>Andrew Casey Integration provides advanced wander management systems designed to
+                                    <p>Elastizell Systems provides advanced wander management systems designed to
                                         enhance safety in healthcare facilities throughout Toledo, Ohio. We design,
                                         install, and maintain cutting-edge wander management solutions that are
                                         essential for large nursing homes and assisted living facilities, helping to
@@ -226,7 +226,7 @@
                                     <h2>Ready to Secure Your Toledo Facility?</h2>
 
                                     <p>Take the first step toward enhancing the safety and efficiency of your facility
-                                        with Andrew Casey Integration. Whether you need advanced fire alarm systems,
+                                        with Elastizell Systems. Whether you need advanced fire alarm systems,
                                         cutting-edge access control, or comprehensive communication solutions, our team
                                         is here to help. <a href="contact.php">Contact us today</a> to schedule a
                                         consultation and discover how our tailored services can protect and optimize

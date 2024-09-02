@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Integration</title>
+<title>Elastizell Systems</title>
 
 
 
@@ -42,7 +42,7 @@
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!--    <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3">Andrew Casey Integration
+                                                        <h2 class="slider-title mb-3">Elastizell Systems
                                                         </h2>
                                                         <h3 class="slider-teaser mb-3">Comprehensive Design-Build and
                                                             Service Solutions for Security, Fire, and Healthcare
@@ -201,7 +201,7 @@
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <h2 class="wow fadeInUp">Leading the Way in Fire Alarms, Life Safety, and Security
                                 Technology</h2>
-                            <p class="wow fadeInUp">At Andrew Casey Integration, our family-owned heritage is the
+                            <p class="wow fadeInUp">At Elastizell Systems, our family-owned heritage is the
                                 cornerstone of our "Service First" philosophy, driving us to build strong personal
                                 relationships with our clients. We specialize in providing advanced fire alarms,
                                 surveillance camera systems, and access control solutions tailored for commercial,
@@ -467,7 +467,7 @@
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering Exceptional Results, Project After
                                 Project
                             </h2>
-                            <p class="wow fadeInUp">Andrew Casey Integration has a proven track record of completing
+                            <p class="wow fadeInUp">Elastizell Systems has a proven track record of completing
                                 projects across a wide range of industries. Our commitment to excellence and attention
                                 to detail ensures that every project is handled with the utmost professionalism,
                                 providing our clients with reliable and advanced solutions tailored to their unique

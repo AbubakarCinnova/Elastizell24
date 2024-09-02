@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Integration - Terms of Service and Privacy Policy</title>
+<title>Elastizell Systems - Terms of Service and Privacy Policy</title>
 
 </head>
 
@@ -50,7 +50,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-12">
 
-                                    <h2>Andrew Casey Integration. Terms of Service and Privacy Policy</h2>
+                                    <h2>Elastizell Systems. Terms of Service and Privacy Policy</h2>
 
                                     <h3>1. Terms</h3>
                                     <p>By accessing the website at <a
@@ -64,7 +64,7 @@
                                     <h3>2. Use License</h3>
                                     <ol type="a">
                                         <li>Permission is granted to temporarily download one copy of the materials
-                                            (information or software) on Andrew Casey Integration's website for
+                                            (information or software) on Elastizell Systems's website for
                                             personal, non-commercial transitory viewing only. This is the grant of a
                                             license, not a transfer of title, and under this license, you may not:
                                             <ol type="i">
@@ -72,7 +72,7 @@
                                                 <li>use the materials for any commercial purpose, or any public display
                                                     (commercial or non-commercial);</li>
                                                 <li>attempt to decompile or reverse engineer any software contained on
-                                                    Andrew Casey Integration website;</li>
+                                                    Elastizell Systems website;</li>
                                                 <li>remove any copyright or other proprietary notations from the
                                                     materials; or</li>
                                                 <li>transfer the materials to another person or "mirror" the materials
@@ -80,7 +80,7 @@
                                             </ol>
                                         </li>
                                         <li>This license shall automatically terminate if you violate any of these
-                                            restrictions and may be terminated by Andrew Casey Integration at any time.
+                                            restrictions and may be terminated by Elastizell Systems at any time.
                                             Upon terminating your viewing of these materials or upon the termination of
                                             this license, you must destroy any downloaded materials in your possession
                                             whether in electronic or printed format.</li>
@@ -88,45 +88,45 @@
 
                                     <h3>3. Disclaimer</h3>
                                     <ol type="a">
-                                        <li>The materials on Andrew Casey Integration's website are provided on an 'as
-                                            is' basis. Andrew Casey Integration makes no warranties, expressed or
+                                        <li>The materials on Elastizell Systems's website are provided on an 'as
+                                            is' basis. Elastizell Systems makes no warranties, expressed or
                                             implied, and hereby disclaims and negates all other warranties including,
                                             without limitation, implied warranties or conditions of merchantability,
                                             fitness for a particular purpose, or non-infringement of intellectual
                                             property or other violation of rights.</li>
-                                        <li>Further, Andrew Casey Integration does not warrant or make any
+                                        <li>Further, Elastizell Systems does not warrant or make any
                                             representations concerning the accuracy, likely results, or reliability of
                                             the use of the materials on its website or otherwise relating to such
                                             materials or on any sites linked to this site.</li>
                                     </ol>
 
                                     <h3>4. Limitations</h3>
-                                    <p>In no event shall Andrew Casey Integration or its suppliers be liable for any
+                                    <p>In no event shall Elastizell Systems or its suppliers be liable for any
                                         damages (including, without limitation, damages for loss of data or profit, or
                                         due to business interruption) arising out of the use or inability to use the
-                                        materials on Andrew Casey Integration's website, even if Andrew Casey
-                                        Integration or an Andrew Casey Integration authorized representative has been
+                                        materials on Elastizell Systems's website, even if Andrew Casey
+                                        Integration or an Elastizell Systems authorized representative has been
                                         notified orally or in writing of the possibility of such damage. Because some
                                         jurisdictions do not allow limitations on implied warranties or limitations of
                                         liability for consequential or incidental damages, these limitations may not
                                         apply to you.</p>
 
                                     <h3>5. Accuracy of materials</h3>
-                                    <p>The materials appearing on the Andrew Casey Integration website could include
-                                        technical, typographical, or photographic errors. Andrew Casey Integration does
+                                    <p>The materials appearing on the Elastizell Systems website could include
+                                        technical, typographical, or photographic errors. Elastizell Systems does
                                         not warrant that any of the materials on its website are accurate, complete, or
-                                        current. Andrew Casey Integration may make changes to the materials contained on
-                                        its website at any time without notice. However, Andrew Casey Integration does
+                                        current. Elastizell Systems may make changes to the materials contained on
+                                        its website at any time without notice. However, Elastizell Systems does
                                         not make any commitment to update the materials.</p>
 
                                     <h3>6. Links</h3>
-                                    <p>Andrew Casey Integration has not reviewed all of the sites linked to its website
+                                    <p>Elastizell Systems has not reviewed all of the sites linked to its website
                                         and is not responsible for the contents of any such linked site. The inclusion
-                                        of any link does not imply endorsement by Andrew Casey Integration of the site.
+                                        of any link does not imply endorsement by Elastizell Systems of the site.
                                         Use of any such linked website is at the user's own risk.</p>
 
                                     <h3>7. Modifications</h3>
-                                    <p>Andrew Casey Integration may revise these terms of service for its website at any
+                                    <p>Elastizell Systems may revise these terms of service for its website at any
                                         time without notice. By using this website you are agreeing to be bound by the
                                         then-current version of these terms of service.</p>
 
@@ -136,7 +136,7 @@
                                         or location.</p>
 
                                     <h2>Privacy Policy</h2>
-                                    <p>Your privacy is important to us. It is Andrew Casey Integration's policy to
+                                    <p>Your privacy is important to us. It is Elastizell Systems's policy to
                                         respect your privacy regarding any information we may collect from you across
                                         our website.</p>
 
@@ -164,7 +164,7 @@
                                         required by law. We will only retain personal information for as long as
                                         necessary to provide you with a service.</p>
 
-                                    <h3>Cookie Policy for Andrew Casey Integration </h3>
+                                    <h3>Cookie Policy for Elastizell Systems </h3>
 
                                     <p>Cookies</p>
                                     <p>We use cookies on our website. These are small text files stored on your
@@ -256,7 +256,7 @@
                                     </p>
 
                                     <h4>Third-Party Privacy Policies</h4>
-                                    <p>Andrew Casey Integration Privacy Policy does not apply to other advertisers or
+                                    <p>Elastizell Systems Privacy Policy does not apply to other advertisers or
                                         websites. Thus, we are advising you to consult the respective Privacy Policies
                                         of these third-party ad servers for more detailed information. It may include
                                         their practices and instructions about how to opt out of certain options.</p>
@@ -308,7 +308,7 @@
                                     <h3>Children's Information</h3>
                                     <p>Another part of our priority is adding protection for children while using the
                                         internet. We encourage parents and guardians to observe, participate in, and/or
-                                        monitor and guide their online activity. Andrew Casey Integration does not
+                                        monitor and guide their online activity. Elastizell Systems does not
                                         knowingly collect any personally Identifiable Information from children under
                                         the age of 13. If you think that your child provided this kind of information on
                                         our website, we strongly encourage you to contact us immediately and we will do
@@ -341,7 +341,7 @@
                                         right to object to that use, though in some cases, this may mean no longer using
                                         the services.</p>
 
-                                    <p>For Canadian users, Andrew Casey Integration has adopted reasonable physical,
+                                    <p>For Canadian users, Elastizell Systems has adopted reasonable physical,
                                         technical, and organizational safeguards that substantially mirror the EU
                                         safeguards against accidental, unauthorized, or unlawful destruction, loss,
                                         alteration, disclosure, access, use, or processing of the user data. Andrew

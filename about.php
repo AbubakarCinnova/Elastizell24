@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Integration | About Us</title>
+<title>Elastizell Systems | About Us</title>
 
 </head>
 
@@ -55,7 +55,7 @@
                         <div class="col-lg-6">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Who We Are</h2>
-                            <p>At Andrew Casey Integration, our family-owned heritage is more than just a tradition—it’s
+                            <p>At Elastizell Systems, our family-owned heritage is more than just a tradition—it’s
                                 the foundation of our business philosophy. This dedication drives us to foster strong,
                                 personal relationships with our clients and deliver exceptional service. In contrast to
                                 many firms that prioritize short-term gains and transactional relationships, we are

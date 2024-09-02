@@ -6,7 +6,7 @@
                    <img src="images/ac-logo.png" style="width: 240px;
     filter: invert(10) saturate(0) brightness(3.5);" alt="">
                    <div class="spacer-20"></div>
-                   <!--  <p>At Andrew Casey Integration, we specialize in fire alarms, video surveillance, access control, PA
+                   <!--  <p>At Elastizell Systems, we specialize in fire alarms, video surveillance, access control, PA
                        systems, nurse call, mass notification, and intercom system integration. We build lasting
                        partnerships rooted in trust, quality, and exceptional service. Our family-owned heritage drives
                        us to prioritize long-term client satisfaction, delivering personalized solutions through a
@@ -86,7 +86,7 @@
                    <div class="col-md-12">
                        <div class="de-flex">
                            <div class="de-flex-col footer-copyright">
-                               &copy; 2024 Andrew Casey Integration. All rights reserved. Our detailed, original content
+                               &copy; 2024 Elastizell Systems. All rights reserved. Our detailed, original content
                                is protected by copyright, and any unauthorized use is strictly prohibited.
                            </div>
                            <ul class="menu-simple">
