@@ -46,15 +46,9 @@
                           <div class="de-flex-col header-col-mid">
                               <ul id="mainmenu">
                                   <li><a class="menu-item" href="<?php echo $base_url ?>">Home</a>
-                                      <!--   <ul>
-                                          <li><a class="menu-item" href="index.php">Homepage One</a></li>
-                                          <li><a class="menu-item" href="homepage-2.php">Homepage Two</a></li>
-                                          <li><a class="menu-item" href="homepage-3.php">Homepage Three</a></li>
-                                          <li><a class="menu-item" href="homepage-4.php">Homepage Four</a></li>
-                                          <li><a class="menu-item new" href="homepage-5.php">Homepage Five</a></li>
-                                          <li><a class="menu-item new" href="homepage-6.php">Homepage Six</a></li>
-                                      </ul> -->
                                   </li>
+
+                                  <li><a class="menu-item" href="about.php">About Us</a></li>
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="first-sub-menu">
@@ -129,13 +123,8 @@
                                   </li>
 
 
+                                  <li><a class="menu-item" href="data-sheets.php">Data Sheets</a></li>
 
-
-
-                                  <li><a class="menu-item" href="design-build.php">Design Build</a></li>
-                                  <li><a class="menu-item" href="about.php">About Us</a></li>
-                                  <li><a class="menu-item" href="maintenance.php">Maintenance Plan</a>
-                                  </li>
 
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
