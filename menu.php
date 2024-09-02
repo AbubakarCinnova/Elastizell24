@@ -14,13 +14,13 @@
                                           08.00 - 18.00</a></div> -->
                               </div>
 
-                              <!--   <div class="social-icons">
+                              <div class="social-icons">
                                   <a href="#"><i class="fa-brands fa-facebook fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-instagram fa-lg"></i></a>
-                              </div> -->
+                              </div>
                           </div>
                       </div>
                   </div>

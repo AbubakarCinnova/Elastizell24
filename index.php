@@ -826,7 +826,7 @@
                                             <div class="subtitle s2 mb-2">24 Hours &amp; Emergencies</div>
                                             <h3 class="mb10 wow fadeInUp">Please Call Us At </h3>
                                             <h2 class="phone mb0 wow fadeInUp" data-wow-delay=".2s"><i
-                                                    class="icofont-phone-circle"></i>  1-800-777-8448</h2>
+                                                    class="icofont-phone-circle"></i> 1-800-777-8448</h2>
                                             <div class="spacer-double"></div>
                                         </div>
                                     </div>
@@ -862,8 +862,8 @@
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-9">
-                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Andrew Casey
-                                Integration</h3>
+                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Elastizell
+                                Systems</h3>
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
