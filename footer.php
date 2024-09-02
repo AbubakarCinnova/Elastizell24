@@ -61,14 +61,15 @@
                    <div class="widget">
                        <h5 class="id-color-2">24 Hours &amp; Emergencies</h5>
                        <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><i
-                               class="icofont-phone-circle id-color-2"></i> (937) 280-4146</h2>
+                               class="icofont-phone-circle id-color-2"></i> 1-800-777-8448</h2>
 
                        <div class="spacer-20"></div>
 
                        <div class="fw-bold text-white"><i class="icofont-location-pin me-2 id-color-2"></i>Office
                            Location</div>
-                       8535 N. Dixie Dr., Suite D <br>
-                       Dayton, Ohio 45414
+                       Elastizell Systems <br>
+                       2475 Arbor Blvd <br>
+                       Dayton Ohio, 45439
 
                        <div class="spacer-20"></div>
 

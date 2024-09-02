@@ -148,8 +148,9 @@
 
                             <div class="fw-bold text-dark"><i class="icofont-location-pin me-2 id-color-2"></i>Office
                                 Location</div>
-                            8535 N. Dixie Dr., Suite D <br>
-                            Dayton, Ohio 45414
+                            Elastizell Systems <br>
+                            2475 Arbor Blvd <br>
+                            Dayton Ohio, 45439
 
                             <div class="spacer-single"></div>
 
@@ -161,7 +162,7 @@
 
                             <div class="fw-bold text-dark"><i class="icofont-phone me-2 id-color-2"></i>Call Us Directly
                             </div>
-                            (937) 280-4146
+                            1-800-777-8448
 
                             <div class="spacer-single"></div>
                         </div>
