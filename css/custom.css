@@ -29,6 +29,10 @@
 
 }
 
+.sub-menu li {
+    border-bottom: 1px dotted grey;
+}
+
 li:hover>.sub-menu {
     display: block;
     /* Show sub-menu on hover */
