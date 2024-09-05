@@ -26,10 +26,12 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
-                            <h1>What is Lightweight Cellular Concrete (LCC)?</h1>
+                            <h1>Elastizell Composite Lightweight Insulating Concrete Roof Deck System
+                            </h1>
                             <ul class="crumb">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">What is Lightweight Cellular Concrete (LCC)?</li>
+                                <li class="active">Elastizell Composite Lightweight Insulating Concrete Roof Deck System
+                                </li>
                             </ul>
                         </div>
 
