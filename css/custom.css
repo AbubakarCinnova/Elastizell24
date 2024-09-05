@@ -29,7 +29,8 @@
 
 }
 
-.sub-menu li {
+.sub-menu li,
+.first-sub-menu li {
     border-bottom: 1px dotted grey !important;
 }
 
