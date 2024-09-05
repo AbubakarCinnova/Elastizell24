@@ -67,7 +67,7 @@
                                                   <li><a class="menu-item"
                                                           href="composite-lightweight-insulating-concrete-roof-deck-system.php">Composite
                                                           Lightweight
-                                                          Insulating Concrete Roof Deck System new LWIC</a></li>
+                                                          Insulating Concrete Roof Deck System New LWIC</a></li>
 
                                               </ul>
                                           </li>
