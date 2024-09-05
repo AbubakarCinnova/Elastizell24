@@ -57,14 +57,11 @@
                                           </li>
                                           <!-- Security Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="#">Security </a>
+                                              <a class="menu-item head-menu" href="#">Lightweight Cellular Concrete </a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="surveillance-cameras.php">Surveillance
-                                                          Camera</a></li>
-                                                  <li><a class="menu-item" href="access-control.php">Access Control</a>
-                                                  </li>
-                                                  <li><a class="menu-item" href="video-intercom.php">Video Intercom</a>
-                                                  </li>
+                                                  <li><a class="menu-item" href="surveillance-cameras.php">Airport
+                                                          Runways and Taxiways</a></li>
+
                                               </ul>
                                           </li>
 
@@ -73,16 +70,7 @@
                                               <a class="menu-item head-menu" href="#">Fire & Life Safety</a>
                                               <ul class="sub-menu">
                                                   <li><a class="menu-item" href="fire-alarms.php">Fire Alarms</a></li>
-                                                  <li><a class="menu-item" href="mass-notification.php">Mass
-                                                          Notification Systems</a></li>
-                                                  <li><a class="menu-item" href="nurse-call.php">Nurse Call</a></li>
-                                                  <li><a class="menu-item" href="wander-management.php">Wander
-                                                          Management Systems</a></li>
-                                                  <li><a class="menu-item" href="alarm-monitoring.php">Alarm
-                                                          Monitoring</a></li>
-                                                  <li><a class="menu-item" href="fire-alarm-testing.php">Fire Alarm
-                                                          Inspections/Testing</a>
-                                                  </li>
+
                                               </ul>
                                           </li>
 
@@ -93,13 +81,7 @@
                                                   <li><a class="menu-item"
                                                           href="renewable-energy-integration.php">Renewable Energy
                                                           Integration</a></li>
-                                                  <li><a class="menu-item" href="technology-deployments.php">Technology
-                                                          Deployments</a></li>
-                                                  <li><a class="menu-item" href="cable-infastructure.php">Cabling
-                                                          Infrastructure</a></li>
-                                                  <li><a class="menu-item" href="rack-stack.php">Rack and Stack</a></li>
-                                                  <li><a class="menu-item" href="smart-fleet.php">Smart Fleet
-                                                          Systems</a></li>
+
 
                                               </ul>
                                           </li>
