@@ -169,7 +169,8 @@
                                         engineers and experienced crews help you achieve the best in roofing with the
                                         Elastizell Composite LWIC Roof Deck System.</p>
 
-                                    <p><strong>Contact Elastizell Systems today</strong> to explore how our Elastizell
+                                    <p><strong><a href="contact.php">Contact Elastizell Systems today</a></strong> to
+                                        explore how our Elastizell
                                         Composite LWIC Roof Deck System can be tailored to your project’s specific
                                         needs.</p>
 

@@ -196,7 +196,8 @@
                                         Whether you need to reduce load, improve thermal performance, or ensure safety
                                         and durability, LCC provides a versatile and cost-effective solution.</p>
 
-                                    <p>Contact Elastizell Systems Inc. today to learn more about how Lightweight
+                                    <p><a href="contact.php">Contact Elastizell Systems Inc. today</a> to learn more
+                                        about how Lightweight
                                         Cellular Concrete (LCC) can be tailored to meet the specific needs of your
                                         project. Let us provide the innovative solutions you need to ensure the success
                                         of your construction endeavors.</p>

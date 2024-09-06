@@ -125,7 +125,8 @@
                                         standards. Whether you are constructing new plazas or rehabilitating existing
                                         ones, Elastizell Systems delivers the performance and reliability you need.</p>
 
-                                    <p><strong>Contact Elastizell Systems today</strong> to learn more about how
+                                    <p><strong><a href="contact.php">Contact Elastizell Systems today</a></strong> to
+                                        learn more about how
                                         Lightweight Cellular Concrete (LCC) can be tailored to meet the specific demands
                                         of your plaza fill project. Let us help you achieve the best results with a
                                         material that is both effective and sustainable.</p>

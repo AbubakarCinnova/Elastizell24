@@ -204,7 +204,8 @@
                                         delivering high-quality, reliable solutions that meet the specific needs of your
                                         project.</p>
 
-                                    <p><strong>Contact Elastizell Systems today</strong> to learn more about how
+                                    <p><strong><a href="contact.php">Contact Elastizell Systems today</a></strong> to
+                                        learn more about how
                                         Lightweight Cellular Concrete can be tailored to meet your load-reducing fill
                                         requirements. Let us provide the innovative solutions you need to ensure the
                                         success of your construction projects.</p>

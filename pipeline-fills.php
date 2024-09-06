@@ -148,7 +148,8 @@
                                         contributing to faster project completion and a reduced environmental footprint.
                                     </p>
 
-                                    <p>Contact Elastizell Systems today to learn more about how Lightweight Cellular
+                                    <p><a href="contact.php">Contact Elastizell Systems today</a> to learn more about
+                                        how Lightweight Cellular
                                         Concrete (LCC) can improve the stability, performance, and longevity of your
                                         pipeline fill and bedding projects.</p>
 

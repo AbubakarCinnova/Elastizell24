@@ -194,12 +194,14 @@
                                         high-quality, reliable solutions that meet the specific needs of your slope
                                         stabilization and landslip repair projects.</p>
 
-                                    <p>Contact Elastizell Systems today to learn more about how Low-Density Cellular
+                                    <p><a href="contact.php">Contact Elastizell Systems today</a> to learn more about
+                                        how Low-Density Cellular
                                         Concrete can enhance the stability and safety of your slopes. Let us provide the
                                         innovative solutions you need to protect your infrastructure and the
                                         environment.</p>
 
-                                    <p><strong>Contact Us</strong> to get started with the industry leader in
+                                    <p><strong><a href="contact.php">Contact Us</a></strong> to get started with the
+                                        industry leader in
                                         Low-Density Cellular Concrete solutions.</p>
 
 
