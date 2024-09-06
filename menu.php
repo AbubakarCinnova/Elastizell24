@@ -80,6 +80,7 @@
                                                   <li><a class="menu-item" href="load-reducing-fill.php">Load Reducing
                                                           Fill</a></li>
                                                   <li><a class="menu-item" href="roadway.php">Roadway</a></li>
+                                                  <li><a class="menu-item" href="mse-walls.php">MSE Walls</a></li>
 
                                               </ul>
                                           </li>
