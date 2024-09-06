@@ -84,8 +84,8 @@
                    <div class="col-md-12">
                        <div class="de-flex">
                            <div class="de-flex-col footer-copyright">
-                               &copy; 2024 Elastizell Systems. All rights reserved. Our detailed, original content
-                               is protected by copyright, and any unauthorized use is strictly prohibited.
+                               All rights reserved. Our detailed, original content is protected by copyright, and any
+                               unauthorized use is strictly prohibited.
                            </div>
                            <ul class="menu-simple">
                                <li><a href="privacy-policy.php">Terms &amp; Conditions</a></li>
