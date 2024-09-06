@@ -85,6 +85,13 @@
                                                           Walls</a></li>
                                                   <li><a class="menu-item" href="bridge-fills.php">Bridge Fills</a></li>
 
+                                                  <li><a class="menu-item" href="slope-stabilization.php">Slope
+                                                          Stabilization</a></li>
+
+                                                  <li><a class="menu-item" href="slope-stabilization.php">Land Slip
+                                                          Repair
+                                                          Fills</a></li>
+
                                               </ul>
                                           </li>
 
