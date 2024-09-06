@@ -109,7 +109,8 @@
                                         trusted choice for annular space grouting in complex infrastructure projects.
                                     </p>
 
-                                    <p>Contact us today to learn how our Lightweight Cellular Concrete (LCC) can enhance
+                                    <p><a href="contact.php">Contact us today</a> to learn how our Lightweight Cellular
+                                        Concrete (LCC) can enhance
                                         your next sliplining or pipeline rehabilitation project.</p>
 
 
