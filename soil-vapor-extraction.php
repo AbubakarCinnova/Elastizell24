@@ -166,7 +166,8 @@
                                         partner for achieving optimal remediation outcomes with innovative, sustainable
                                         solutions.</p>
 
-                                    <p>Contact Elastizell Systems today to discover how our Lightweight Cellular
+                                    <p><a href="contact.php">Contact Elastizell Systems today</a> to discover how our
+                                        Lightweight Cellular
                                         Concrete can enhance the stability, safety, and longevity of your Soil Vapor
                                         Extraction (SVE) and Thermal Remediation projects.</p>
 
