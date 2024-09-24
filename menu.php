@@ -69,6 +69,8 @@
                                                           Lightweight
                                                           Insulating Concrete Roof Deck System New LWIC</a></li>
                                                   <li><a class="menu-item" href="plaza-fills.php">Plaza Fills</a></li>
+                                                  <li><a class="menu-item" href="soil-vapor-extraction.php">Soil Vapor
+                                                          Extraction</a></li>
 
                                               </ul>
                                           </li>
