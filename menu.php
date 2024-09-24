@@ -71,6 +71,8 @@
                                                   <li><a class="menu-item" href="plaza-fills.php">Plaza Fills</a></li>
                                                   <li><a class="menu-item" href="soil-vapor-extraction.php">Soil Vapor
                                                           Extraction</a></li>
+                                                  <li><a class="menu-item" href="soil-vapor-extraction.php">In-Situ
+                                                          Thermal Remediation</a></li>
 
                                               </ul>
                                           </li>
