@@ -199,19 +199,29 @@
                         </div> -->
                         <div class="col-lg-12 text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <h2 class="wow fadeInUp">Leading the Way in Fire Alarms, Life Safety, and Security
-                                Technology</h2>
-                            <p class="wow fadeInUp">At Elastizell Systems, our family-owned heritage is the
-                                cornerstone of our "Service First" philosophy, driving us to build strong personal
-                                relationships with our clients. We specialize in providing advanced fire alarms,
-                                surveillance camera systems, and access control solutions tailored for commercial,
-                                healthcare, education, manufacturing, airport, and government facilities. Our approach
-                                emphasizes enduring partnerships through exceptional service, quality, and ongoing
-                                maintenance. Every aspect of our work, from design and installation to service and
-                                maintenance, is executed with precision and dedication, ensuring your operations are
-                                protected and optimized for the long term. Discover the difference our advanced
-                                technology, expertise, and commitment to lasting client satisfaction can make for your
-                                facility.</p>
+                            <h2 class="wow fadeInUp">Elastizell Systems – 65+ Years of Innovation in Lightweight
+                                Cellular Concrete</h2>
+                            <p class="wow fadeInUp">For over 65 years, Elastizell Systems has been at the forefront of
+                                lightweight cellular concrete solutions, serving clients across the United States. Our
+                                advanced materials offer remarkable advantages, including weighing less than 25% of
+                                traditional soil, which reduces earth pressure and eliminates the need for compaction.
+                                These benefits make our concrete ideal for retaining wall backfill, utility trench
+                                backfill, bridge abutment fills, and landslip repair.
+
+                                <br>
+
+                                Lightweight cellular concrete provides durable, cost-effective solutions that reduce
+                                construction time and improve long-term performance in challenging environments. Whether
+                                you're tackling projects like void filling or annular grouting, our lightweight concrete
+                                allows for faster placement, requires less equipment, and delivers superior stability.
+
+                                <br>
+
+                                At Elastizell Systems, our team of expert engineers and experienced crews design and
+                                install tailored solutions that meet your project’s specific needs. With a proven track
+                                record in flowable fill and other geotechnical applications, we’re committed to
+                                delivering the highest quality results.
+                            </p>
                             <div class="spacer-10"></div>
                             <a class="btn-main wow fadeInUp" href="about.php">About Company</a>
                         </div>
