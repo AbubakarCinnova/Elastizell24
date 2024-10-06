@@ -316,9 +316,9 @@
                         <div class="col-lg-6 offset-lg-3 text-center">
                             <div class="subtitle bg-color-2 text-white wow fadeInUp mb-3">Top 6 Reasons</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Us</h2>
-                            <p class="lead wow fadeInUp">Experience the Elastizell Systems Difference Discover How We
-                                Build
-                                Lasting Partnerships on a Foundation of Service.</p>
+                            <p class="lead wow fadeInUp">Experience the Elastizell Systems Difference
+                                Discover how we build lasting partnerships with innovative lightweight cellular concrete
+                                solutions.</p>
                             <div class="spacer-single"></div>
                         </div>
                     </div>
@@ -471,14 +471,15 @@
                     <div class="row  gx-5 align-items-center">
                         <div class="col-lg-6">
                             <!--  <div class="subtitle wow fadeInUp mb-3">Our Specialize</div> -->
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering Exceptional Results, Project After
-                                Project
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering Outstanding Results in Lightweight
+                                Cellular Concrete, Project After Project
                             </h2>
-                            <p class="wow fadeInUp">Elastizell Systems has a proven track record of completing
-                                projects across a wide range of industries. Our commitment to excellence and attention
-                                to detail ensures that every project is handled with the utmost professionalism,
-                                providing our clients with reliable and advanced solutions tailored to their unique
-                                needs.</p>
+                            <p class="wow fadeInUp">With over 65 years of experience, Elastizell Systems has a proven
+                                track record of completing lightweight cellular concrete projects across diverse
+                                industries. Our dedication to innovation and precision ensures every project—from plaza
+                                fills and retaining wall backfill to bridge abutment fills—is executed with the highest
+                                level of professionalism. We provide advanced, reliable solutions in geotechnical
+                                applications, tailored to meet the specific needs of each client.</p>
                         </div>
 
                         <div class="col-lg-6">
@@ -489,7 +490,7 @@
                                     <div class="col-12 text-center">
                                         <div class="bg-color text-light px-4 pt30 pb10 rounded-10 wow fadeInLeft">
                                             <div class="de_count">
-                                                <h3><span class="timer" data-to="850" data-speed="3000"></span>+</h3>
+                                                <h3><span class="timer" data-to="16950" data-speed="3000"></span>+</h3>
                                                 <h4>Projects Completed</h4>
                                             </div>
                                         </div>
