@@ -316,7 +316,8 @@
                         <div class="col-lg-6 offset-lg-3 text-center">
                             <div class="subtitle bg-color-2 text-white wow fadeInUp mb-3">Top 6 Reasons</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Us</h2>
-                            <p class="lead wow fadeInUp">Experience the Andrew Casey Difference Discover How We Build
+                            <p class="lead wow fadeInUp">Experience the Elastizell Systems Difference Discover How We
+                                Build
                                 Lasting Partnerships on a Foundation of Service.</p>
                             <div class="spacer-single"></div>
                         </div>
@@ -326,10 +327,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Expert Technicians</h4>
-                                    <p class="mb-0">Our team brings extensive expertise in designing, installing, and
-                                        maintaining comprehensive security systems, including advanced integration with
-                                        access control and thermal cameras.</p>
+                                    <h4>65+ Years of Industry Leadership</h4>
+                                    <p class="mb-0">Over six decades of experience delivering innovative Lightweight
+                                        Cellular Concrete solutions for a variety of applications.</p>
                                 </div>
                             </div>
                         </div>
@@ -338,9 +338,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Transparent Pricing</h4>
-                                    <p class="mb-0">We provide clear and upfront pricing with no hidden fees, making
-                                        budgeting and financial planning straightforward and hassle-free.</p>
+                                    <h4>Tailored LCC Solutions</h4>
+                                    <p class="mb-0">Customized lightweight cellular concrete mixes designed to meet the
+                                        exact specifications and demands of your project.</p>
                                 </div>
                             </div>
                         </div>
@@ -349,9 +349,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Emergency Services</h4>
-                                    <p class="mb-0">Our rapid response team is ready to address any issues quickly,
-                                        ensuring your security systems remain fully operational with minimal downtime.
+                                    <h4>Skilled Engineering Expertise</h4>
+                                    <p class="mb-0">Our team of highly experienced civil engineers ensures your
+                                        project’s success from design through to completion.
                                     </p>
                                 </div>
                             </div>
@@ -361,10 +361,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Project Management</h4>
-                                    <p class="mb-0">From initial design to final installation and ongoing maintenance,
-                                        we handle every aspect of your project with precision, ensuring flawless
-                                        execution and on-time delivery.</p>
+                                    <h4>Comprehensive Project Management</h4>
+                                    <p class="mb-0">We provide professional project management to ensure efficient,
+                                        on-time, and cost-effective delivery every step of the way.</p>
                                 </div>
                             </div>
                         </div>
@@ -373,10 +372,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Top-Quality Products</h4>
-                                    <p class="mb-0">We use the latest technology and top-tier components to ensure your
-                                        security systems deliver exceptional performance and reliability over the long
-                                        term.</p>
+                                    <h4>Superior Materials for Long-Term Durability</h4>
+                                    <p class="mb-0">We use only the highest quality materials, guaranteeing durable and
+                                        long-lasting results for all types of projects.</p>
                                 </div>
                             </div>
                         </div>
@@ -385,10 +383,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Service First</h4>
-                                    <p class="mb-0">Our "Service First" approach ensures that your needs come first,
-                                        with tailored solutions and unmatched support to meet the highest standards of
-                                        safety and security.</p>
+                                    <h4>Solutions for Diverse Applications</h4>
+                                    <p class="mb-0">From void filling to load-bearing applications, including seismic
+                                        mitigation, our versatile solutions meet a wide range of construction needs.</p>
                                 </div>
                             </div>
                         </div>
