@@ -199,28 +199,16 @@
                         </div> -->
                         <div class="col-lg-12 text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <h2 class="wow fadeInUp">Elastizell Systems – 65+ Years of Innovation in Lightweight
-                                Cellular Concrete</h2>
+                            <h2 class="wow fadeInUp">Elastizell Systems: 65+ Years of Lightweight Cellular Concrete
+                                Expertise</h2>
                             <p class="wow fadeInUp">For over 65 years, Elastizell Systems has been at the forefront of
                                 lightweight cellular concrete solutions, serving clients across the United States. Our
-                                advanced materials offer remarkable advantages, including weighing less than 25% of
-                                traditional soil, which reduces earth pressure and eliminates the need for compaction.
-                                These benefits make our concrete ideal for retaining wall backfill, utility trench
-                                backfill, bridge abutment fills, and landslip repair.
-
-                                <br><br>
-
-                                Lightweight cellular concrete provides durable, cost-effective solutions that reduce
-                                construction time and improve long-term performance in challenging environments. Whether
-                                you're tackling projects like void filling or annular grouting, our lightweight concrete
-                                allows for faster placement, requires less equipment, and delivers superior stability.
-
-                                <br><br>
-
-                                At Elastizell Systems, our team of expert engineers and experienced crews design and
-                                install tailored solutions that meet your project’s specific needs. With a proven track
-                                record in flowable fill and other geotechnical applications, we’re committed to
-                                delivering the highest quality results.
+                                advanced materials, weighing less than 25% of traditional soil, are engineered to reduce
+                                the load on underlying structures. They are ideal for projects with critical concerns
+                                for soil-bearing capacity, settlement, and stability. These benefits make our
+                                lightweight cellular concrete perfect for retaining wall backfill, void filling, bridge
+                                abutments, and landslip repair, delivering enhanced performance and long-term durability
+                                in demanding environments.
                             </p>
                             <div class="spacer-10"></div>
                             <a class="btn-main wow fadeInUp" href="about.php">About Company</a>
